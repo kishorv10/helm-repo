@@ -1,0 +1,28 @@
+apiVersion: v1
+entries:
+  pega-database:
+  - created: 2019-05-01T13:45:43.931923454+05:30
+    description: Pega installation on kubernetes
+    digest: 36b1f09a3f5e448d5564f5f938239dc730b7ab247cf8a1feddaf7c3f744862a6
+    home: http://www.pega.com
+    keywords:
+    - pega
+    - prpc
+    - kubernetes
+    name: pega-database
+    urls:
+    - https://kishor-git.github.io/helm-repo/pega-database-0.0.1.tgz
+    version: 0.0.1
+  - created: 2019-05-01T13:45:43.932621715+05:30
+    description: Pega installation on kubernetes
+    digest: 36b1f09a3f5e448d5564f5f938239dc730b7ab247cf8a1feddaf7c3f744862a6
+    home: http://www.pega.com
+    keywords:
+    - pega
+    - prpc
+    - kubernetes
+    name: pega-database
+    urls:
+    - https://kishor-git.github.io/helm-repo/pega-database/pega-database-0.0.1.tgz
+    version: 0.0.1
+generated: 2019-05-01T13:45:43.929418328+05:30
