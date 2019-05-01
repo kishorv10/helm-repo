@@ -1,0 +1,7 @@
+containers:
+  image: vamsregistry.rpega.com:5000/pega-db-ss-st-smoke:HEAD-7350-k8s
+  volumeMounts:
+    mountPath: /var/lib/postgresql/data
+  maxConnections: 5000
+volumes: 
+  hostPath: /mnt/local-storage/postgresql-data
